@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "Kenan Šehić, Ph.D."
   avatar           : "/images/ke2103se.jpg"
-  bio              : "Postdoctoral research fellow - Data Scientist"
+  bio              : "Postdoctoral research fellow
+                      Data Scientist"
   location         : "Lund University, Sweden"
   email            : #""
   links:
