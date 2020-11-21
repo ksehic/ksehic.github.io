@@ -1,5 +1,4 @@
 ---
-layout: splash
 permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
@@ -12,16 +11,16 @@ header:
 *2017 - 2020* - Doctor of Sciences (**Ph.D.**) at the Technical University of Denmark, DTU Compute, Kgs. Lyngby, Denmark<br/>
 *2013 - 2015* - Mechanical Process Engineering (**M.Eng.**) at the University of Sarajevo, Bosnia-Herzegovina<br/>
 *2010 - 2013* - Mechanical Process Engineering (**B.sc.**) at the University of Sarajevo, Bosnia-Herzegovina<br/>
-*2006 - 2010* - First Bosniak Gymnasium
+*2006 - 2010* - First Bosniak Gymnasium, Sarajevo, Bosnia-Herzegovina
 
 # Professional experience
 *since Aug. 2020* - Postdoctoral researcher at the Lund University, Department of Computer Science<br/>
-*Sept. 2018 - Mar. 2019* - Visiting researcher at the Massachusetts Institute of Technology, Department of Aeronautics and Astronautics, UQGroup<br/>
+*Sept. 2018 - Mar. 2019* - Visiting researcher at the Massachusetts Institute of Technology, AeroAstro, UQGroup<br/>
 *Sept. 2016 - Nov 2016* - Research assistant at the Technical University of Denmark, DTU Compute, Kgs. Lyngby, Denmark<br/>
-*Nov. 2015 - Sept. 2016* - Process Engineer at the Petrolinvest Sarajevo d.d., an oil-gas company
+*Nov. 2015 - Sept. 2016* - Process Engineer at the Petrolinvest Sarajevo d.d. - an oil-gas company
 
 # Scholarships & Awards
-*Jul. 2018* - MIT Visiting Scholarship awarded by the Danish Agency for Science and Higher Education and Massachusetts Institute of Technology<br/>
+*Jul. 2018* - MIT Visiting Scholarship awarded by the Danish Agency for Science and Higher Education and MIT<br/>
 *Jul. 2018* - External research support (30.000 DKK) awarded by Otto Mønsted Fond, Denmark<br/>
 *Feb. 2018* - Travel support funding for SIAM UQ18 (8.891 DKK) awarded by Otto Mønsted Fond, Denmark<br/>
 *Nov. 2015* - Award for outstanding achievements awarded by University of Sarajevo<br/>
