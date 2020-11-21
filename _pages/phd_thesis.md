@@ -13,8 +13,13 @@ Our research focus is to predict the occurrence of extreme waves for offshore ap
 The ocean environment is generally smooth. However, storms, which can generate extreme waves, can be very harsh and difficult to predict. Generally, we witness how difficult it is even to predict the weather tomorrow. Multiple parameters can generate extreme waves for which standard learning tools become impractical. The idea is to describe extreme events with fewer parameters while maintaining essential information about environmental conditions. With a smaller number of parameters, we are able to adequately learn the occurrence of extreme waves. Our numerical observations reveal wave groups associate with extreme events and loads for fewer parameters. Additionally, we show that standard statistical measures such as variance can be used as design parameters for active learning to quantify extreme waves efficiently.
 
 # 3min thesis pitch
-Click [<i class="fab fa-youtube"></i>](https://youtu.be/gaPtteUC7ps) for 3 minutes thesis pitch.
+Click [<i class="fab fa-youtube"></i>](https://youtu.be/gaPtteUC7ps) for 3 minute thesis pitch.
 
+# Open-source softwares
+
+1. Local Approximations for the [subset simulation method](https://www.bgu.tum.de/era/software/software00/subset-simulation/) using a Gaussian process and polynomial regression: [Local-SuS](https://github.com/ksehic/
+Local-Approximations-for-SuS)
+2. Feature extraction for active learning within [OceanWave3D](https://github.com/apengsigkarup/OceanWave3D-Fortran90): [UQ-Packages](https://github.com/ksehic/OCW3D-F90-UQProbe/tree/master/UQ-Packages)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/naslovna.png" alt="">
 Šehić, Kenan. Numerical Uncertainty Quantification for Extreme Wave Events. DTU (2020). [<i class="fas fa-file-pdf"></i>](https://orbit.dtu.dk/files/219276137/PhD_Thesis_Kenan_Sehic.pdf)
