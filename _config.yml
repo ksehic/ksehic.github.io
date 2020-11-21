@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Kenan Šehić, Ph.D."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kenan Šehić, Ph.D."
@@ -112,9 +112,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ksehic_"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ksehic/"
 
 # Site Footer
 footer:

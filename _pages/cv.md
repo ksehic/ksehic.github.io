@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /latest-news/
-title: "Latest News"
+permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
 header:
     image: "/images/prezen.jpg"
