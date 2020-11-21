@@ -4,5 +4,5 @@ permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
 header:
-    image: "/images/prezen.jpg"
+    image: "/images/prezen2.jpg"
 ---
