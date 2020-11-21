@@ -38,9 +38,9 @@ header:
 * *28/02/2019* - SIAM CSE 2019, Spokane, USA<br/>
 * *22/08/2018* - DeRisk Industrial Dissemination Workshop, DTU, Kgs. Lyngby, Denmark<br/>
 * *17/04/2018* - SIAM Uncertainty Quantification 2018, Garden Grove, USA<br/>
-* *29/03/2018* - Scientific Colloquial at the Department of Mathematics at Faculty of Science, University of Sarajevo, B-H<br/>
+* *29/03/2018* - Scientific Colloquial at the Department of Mathematics at Faculty of Science, University of Sarajevo, B&H<br/>
 * *24/01/2018* - Polyteknisk Forening - Inspirational Talk at DTU Compute, Kgs. Lyngby, Denmark<br/>
-* *25/12/2017 - 29/12/2017* - OpenFOAM Workshop at Faculty of Mechanical Engineering, University of Sarajevo, B-H<br/>
+* *25/12/2017 - 29/12/2017* - OpenFOAM Workshop at the Faculty of Mechanical Engineering, University of Sarajevo, B&H<br/>
 * *21/11/2017* - HD-Tomo: High-Definition Tomography Seminar at DTU Compute, Kgs. Lyngby, Denmark<br/>
 * *24/08/2017* - DeRisk ULS Wave loads Workshop, DTU, Kgs. Lyngby, Denmark<br/>
 
