@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink: /phd_thesis/
-title: "PhD Thesis"
+title: "Ph.D. Thesis"
 author_profile: true
 ---
