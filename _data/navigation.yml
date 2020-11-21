@@ -4,6 +4,12 @@ main:
     url: /about/
   - title: "Curriculum Vitae"
     url: /cv/
+  - title: "Ph.D. Thesis"
+    url: /phd_thesis/
+  - title: "Publications"
+    url: /articles/
+  - title: "Contact"
+    url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
