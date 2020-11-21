@@ -32,17 +32,16 @@ header:
 *Sept. 2017 - Jan. 2018* - Teaching assistant for the master course *Introduction to Partial Differential Equations*, DTU Compute
 
 # Talks
-* *24/08/2017* - DeRisk ULS Wave loads Workshop, DTU, Kgs. Lyngby, Denmark<br/>
-* *21/11/2017* - HD-Tomo: High-Definition Tomography Seminar at DTU Compute, Kgs. Lyngby, Denmark<br/>
-* *25/12/2017 - 29/12/2017* - OpenFOAM Workshop at Faculty of Mechanical Engineering, University of Sarajevo, B-H<br/>
-* *24/01/2018* - Polyteknisk Forening - Inspirational Talk at DTU Compute, Kgs. Lyngby, Denmark<br/>
-* *29/03/2018* - Scientific Colloquial at the Department of Mathematics at Faculty of Science, University of Sarajevo, B-H<br/>
-* *17/04/2018* - SIAM Uncertainty Quantification 2018, Garden Grove, USA<br/>
-* *22/08/2018* - DeRisk Industrial Dissemination Workshop, DTU, Kgs. Lyngby, Denmark<br/>
-* *28/02/2019* - SIAM CSE 2019, Spokane, USA<br/>
-* *29/08/2019* - DeRisk Industrial Dissemination Workshop, Kgs. Lyngby, Denmark<br/>
-* *17/10/2019* - Invitation talk, Stochastic Numerics Group, KAUST, KSA<br/>
 * *10/09/2020* - Model Order Reduction Summer School 2020 at EPFL, Switzerland<br/>
-
+* *17/10/2019* - Invitation talk, Stochastic Numerics Group, KAUST, KSA<br/>
+* *29/08/2019* - DeRisk Industrial Dissemination Workshop, Kgs. Lyngby, Denmark<br/>
+* *28/02/2019* - SIAM CSE 2019, Spokane, USA<br/>
+* *22/08/2018* - DeRisk Industrial Dissemination Workshop, DTU, Kgs. Lyngby, Denmark<br/>
+* *17/04/2018* - SIAM Uncertainty Quantification 2018, Garden Grove, USA<br/>
+* *29/03/2018* - Scientific Colloquial at the Department of Mathematics at Faculty of Science, University of Sarajevo, B-H<br/>
+* *24/01/2018* - Polyteknisk Forening - Inspirational Talk at DTU Compute, Kgs. Lyngby, Denmark<br/>
+* *25/12/2017 - 29/12/2017* - OpenFOAM Workshop at Faculty of Mechanical Engineering, University of Sarajevo, B-H<br/>
+* *21/11/2017* - HD-Tomo: High-Definition Tomography Seminar at DTU Compute, Kgs. Lyngby, Denmark<br/>
+* *24/08/2017* - DeRisk ULS Wave loads Workshop, DTU, Kgs. Lyngby, Denmark<br/>
 
  <i class="fas fa-file-pdf"></i> A PDF version of CV can be downloaded [here](https://www.dropbox.com/s/gdhjz94zsuts3rk/CV_Kenan_Sehic.pdf?dl=0).
