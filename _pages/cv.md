@@ -9,9 +9,9 @@ header:
 ---
 
 # Education
-*2017 - 2020* - Doctor of Sciences (**Ph.D.**) at the Technical University of Denmark, DTU Compute, Kgs. Lyngby, Denmark
-*2013 - 2015* - Mechanical Process Engineering (**M.Eng.**) at the University of Sarajevo, Bosnia-Herzegovina
-*2010 - 2013* - Mechanical Process Engineering (**B.sc.**) at the University of Sarajevo, Bosnia-Herzegovina
+*2017 - 2020* - Doctor of Sciences (**Ph.D.**) at the Technical University of Denmark, DTU Compute, Kgs. Lyngby, Denmark<br>
+*2013 - 2015* - Mechanical Process Engineering (**M.Eng.**) at the University of Sarajevo, Bosnia-Herzegovina<br>
+*2010 - 2013* - Mechanical Process Engineering (**B.sc.**) at the University of Sarajevo, Bosnia-Herzegovina<br>
 *2006 - 2010* - First Bosniak Gymnasium
 
 # Professional experience
