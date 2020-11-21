@@ -17,7 +17,7 @@ Click [<i class="fab fa-youtube"></i>](https://youtu.be/gaPtteUC7ps) for 3 minut
 
 # Open-source softwares
 
-1. Local Approximations for the [subset simulation method](https://www.bgu.tum.de/era/software/software00/subset-simulation/): [Local-SuS](https://github.com/ksehic/Local-Approximations-for-SuS)
+1. Local Approximations for [subset simulation method](https://www.bgu.tum.de/era/software/software00/subset-simulation/): [Local-SuS](https://github.com/ksehic/Local-Approximations-for-SuS)
 2. Feature extraction for active learning within [OceanWave3D](https://github.com/apengsigkarup/OceanWave3D-Fortran90): [UQ-Packages](https://github.com/ksehic/OCW3D-F90-UQProbe/tree/master/UQ-Packages)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/naslovna.png" alt="">
