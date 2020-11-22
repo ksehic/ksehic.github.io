@@ -2,6 +2,7 @@
 layout: splash
 permalink: /cv/
 title: "Curriculum Vitae"
+date: 2020-11-22
 author_profile: true
 header:
     image: "/images/prezen2.jpg"

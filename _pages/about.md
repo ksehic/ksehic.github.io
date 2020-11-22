@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+date: 2020-11-22
 header:
     image: "/images/mit.jpg"
     caption: "MIT, Cambridge, Massachusetts"
