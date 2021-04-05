@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-date: 2020-11-22
+date: 2021-04-05
 header:
     image: "/images/mit.jpg"
     caption: "MIT, Cambridge, Massachusetts"
@@ -16,8 +16,8 @@ My research interests include:
 * Uncertainty quantification
 * Machine learning
 * Stochastic modeling
-* Numerical modeling
-* Dimensionality Reduction
-* Extreme Events
+* Bayesian optimization
+* Dimensionality reduction
+* Rare events
 
 For more information check my [curriculum vitae](https://ksehic.github.io/cv/) and a list of [scientific publications](https://ksehic.github.io/articles/).
