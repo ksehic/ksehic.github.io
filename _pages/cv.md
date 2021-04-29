@@ -48,4 +48,4 @@ header:
 * *21/11/2017* - HD-Tomo: High-Definition Tomography Seminar at DTU Compute, Kgs. Lyngby, Denmark<br/>
 * *24/08/2017* - DeRisk ULS Wave loads Workshop, DTU, Kgs. Lyngby, Denmark<br/>
 
- <i class="fas fa-file-pdf"></i> A PDF version of CV can be downloaded [here](https://www.dropbox.com/s/1code1joogs914x/CV_Kenan_Sehic.pdf?dl=0).
+ <i class="fas fa-file-pdf"></i> A PDF version of CV can be downloaded [here](https://www.dropbox.com/s/v8gr68ygr1imdit/CV_Kenan_Sehic.pdf?dl=0).
