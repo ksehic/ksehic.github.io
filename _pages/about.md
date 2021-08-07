@@ -15,9 +15,8 @@ My research interests include:
 <br/>
 * Uncertainty quantification
 * Machine learning
-* Stochastic modeling
-* Bayesian optimization
-* Dimensionality reduction
+* Black-box optimization
+* High-dimensional problems
 * Rare events
 
 For more information check my [curriculum vitae](https://ksehic.github.io/cv/) and a list of [scientific publications](https://ksehic.github.io/articles/).
