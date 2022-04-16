@@ -2,7 +2,7 @@
 layout: splash
 permalink: /cv/
 title: "Curriculum Vitae"
-date: 2021-08-07
+date: 2022-04-16
 author_profile: true
 header:
     image: "/images/prezen2.jpg"
@@ -48,4 +48,4 @@ header:
 * *21/11/2017* - HD-Tomo: High-Definition Tomography Seminar at DTU Compute, Kgs. Lyngby, Denmark<br/>
 * *24/08/2017* - DeRisk ULS Wave loads Workshop, DTU, Kgs. Lyngby, Denmark<br/>
 
- <i class="fas fa-file-pdf"></i> The PDF version of CV can be found [here](https://www.dropbox.com/s/v8gr68ygr1imdit/CV_Kenan_Sehic.pdf?dl=0).
+ <i class="fas fa-file-pdf"></i> The PDF version of CV can be found [here](https://www.dropbox.com/s/jqsdrf75sem7crn/CV_Kenan_Sehic.pdf?dl=0).
