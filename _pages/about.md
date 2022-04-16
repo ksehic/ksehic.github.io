@@ -15,7 +15,7 @@ My research interests include:
 <br/>
 * Uncertainty quantification
 * Machine learning
-* Black-box optimization
+* Hyperparameter optimization
 * High-dimensional problems
 * Rare events
 
