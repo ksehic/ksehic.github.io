@@ -35,6 +35,7 @@ header:
 # Talks
  <i class="fas fa-file-pdf"></i> Find some of the presentations here [here](https://www.dropbox.com/sh/579hj6fe7ygei4s/AABb3BlW1sUm_g3LMTa6aWBwa?dl=0).
 
+* *30/03/2022* - Sarajevo AI 2022, virtual<br/>
 * *03/03/2021* - SIAM CSE 2019, virtual<br/>
 * *10/09/2020* - Model Order Reduction Summer School 2020 at EPFL, Switzerland<br/>
 * *17/10/2019* - Invitation talk, Stochastic Numerics Group, KAUST, KSA<br/>
