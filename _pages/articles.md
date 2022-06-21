@@ -8,6 +8,8 @@ author_profile: true
 # 2022
 1. Šehić K., Gramfort A., Salmon J., Nardi L.: LassoBench: A High-Dimensional Hyperparameter Optimization Benchmark Suite for Lasso, Accepted as a conference paper at [AutoML2022](https://automl.cc/), [<i class="fas fa-file-pdf"></i>](http://arxiv.org/abs/2111.02790)
 
+2. Skaka-Čekić F., Baraković Husić J., Odžak A., Hadžialić M., Huremović A., Šehić K.: Dimensionality reduction of independent influence factors in the objective evaluation of quality of experience, Sci Rep 12, 10320 (2022). DOI: [10.1038/s41598-022-13803-z](https://doi.org/10.1038/s41598-022-13803-z), [<i class="fas fa-file-pdf"></i>](https://www.nature.com/articles/s41598-022-13803-z)
+
 # 2021
 1. Šehić K., Bredmose H., Sørensen J. D., Karamehmedović M.: Low-dimensional representation of wave generation to quantify extreme events, *Journal Of Engineering Mathematics* **126**, 13 (2021). DOI: [10.1007/s10665-021-10091-w](https://doi.org/10.1007/s10665-021-10091-w) [<i class="fas fa-file-pdf"></i>](https://link.springer.com/article/10.1007/s10665-021-10091-w)
 
