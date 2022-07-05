@@ -1,7 +1,7 @@
 ---
 permalink: /articles/
 title: "Publications"
-date: 2022-04-16
+date: 2022-06-22
 author_profile: true
 ---
 
