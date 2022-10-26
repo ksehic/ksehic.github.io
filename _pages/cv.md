@@ -2,7 +2,7 @@
 layout: splash
 permalink: /cv/
 title: "Curriculum Vitae"
-date: 2022-04-16
+date: 2022-10-26
 author_profile: true
 header:
     image: "/images/prezen2.jpg"
@@ -16,7 +16,8 @@ header:
 *2006 - 2010* - First Bosniak Gymnasium, Sarajevo, Bosnia-Herzegovina
 
 # Professional experience
-*since Aug. 2020* - Postdoctoral researcher at the Lund University, Department of Computer Science<br/>
+*since Sept. 2022* - Data Scientist at [Emulate Energy](https://emulate.energy/aboutus/)<br/>
+*Aug. 2020 - Aug. 2022* - Visiting researcher at the Massachusetts Institute of Technology, AeroAstro, UQGroup<br/>
 *Sept. 2018 - Mar. 2019* - Visiting researcher at the Massachusetts Institute of Technology, AeroAstro, UQGroup<br/>
 *Sept. 2016 - Nov 2016* - Research assistant at the Technical University of Denmark, DTU Compute, Kgs. Lyngby, Denmark<br/>
 *Nov. 2015 - Sept. 2016* - Process Engineer at the Petrolinvest Sarajevo d.d. - an oil-gas company
@@ -49,4 +50,4 @@ header:
 * *21/11/2017* - HD-Tomo: High-Definition Tomography Seminar at DTU Compute, Kgs. Lyngby, Denmark<br/>
 * *24/08/2017* - DeRisk ULS Wave loads Workshop, DTU, Kgs. Lyngby, Denmark<br/>
 
- <i class="fas fa-file-pdf"></i> The PDF version of CV can be found [here](https://www.dropbox.com/s/3zfpk1ok0sgx9uv/CV_Kenan_Sehic.pdf?dl=0).
+ <i class="fas fa-file-pdf"></i> The PDF version of CV can be found [here](https://www.dropbox.com/s/34hvv01t0jiprek/CV_Kenan_Sehic.pdf?dl=0).
