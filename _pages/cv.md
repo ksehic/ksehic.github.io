@@ -17,7 +17,7 @@ header:
 
 # Professional experience
 *since Sept. 2022* - Data Scientist at [Emulate Energy](https://emulate.energy/aboutus/)<br/>
-*Aug. 2020 - Aug. 2022* - Visiting researcher at the Massachusetts Institute of Technology, AeroAstro, UQGroup<br/>
+*Aug. 2020 - Aug. 2022* - Postdoc Research Fellow at the Department of Computer Science, Lund University<br/>
 *Sept. 2018 - Mar. 2019* - Visiting researcher at the Massachusetts Institute of Technology, AeroAstro, UQGroup<br/>
 *Sept. 2016 - Nov 2016* - Research assistant at the Technical University of Denmark, DTU Compute, Kgs. Lyngby, Denmark<br/>
 *Nov. 2015 - Sept. 2016* - Process Engineer at the Petrolinvest Sarajevo d.d. - an oil-gas company
