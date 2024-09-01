@@ -2,7 +2,7 @@
 layout: splash
 permalink: /cv/
 title: "Curriculum Vitae"
-date: 2022-10-26
+date: 2022-09-01
 author_profile: true
 header:
     image: "/images/prezen2.jpg"
@@ -16,6 +16,7 @@ header:
 *2006 - 2010* - First Bosniak Gymnasium, Sarajevo, Bosnia-Herzegovina
 
 # Professional experience
+*since Oct. 2023* - Asst. Prof. at Faculty of Electrical Engineering (University of Sarajevo) <br/>
 *since Sept. 2022* - Data Scientist at [Emulate Energy](https://emulate.energy/aboutus/)<br/>
 *Aug. 2020 - Aug. 2022* - Postdoc Research Fellow at the Department of Computer Science, Lund University<br/>
 *Sept. 2018 - Mar. 2019* - Visiting researcher at the Massachusetts Institute of Technology, AeroAstro, UQGroup<br/>
@@ -30,12 +31,16 @@ header:
 *2013 - 2015* - Full Master Scholarship awarded by JP Elektroprivreda BiH d.d. - a public energy company<br/>
 
 # Teaching experience
+*Sept. 2023 -* - Linear Algebra and Geometry, B.Sc. (i.e. undergraduate) course at ETF(UNSA)<br/> 
+*Sept. 2023 -* - Probability And Statistics, B.Sc. (i.e. undergraduate) course at ETF(UNSA)<br/> 
 *Sept. 2019 - Jan. 2020* - Teaching assistant for the master course *Introduction to Partial Differential Equations*, DTU Compute<br/>
 *Sept. 2017 - Jan. 2018* - Teaching assistant for the master course *Introduction to Partial Differential Equations*, DTU Compute
 
 # Talks
  <i class="fas fa-file-pdf"></i> Find the available presentations here [here](https://www.dropbox.com/sh/579hj6fe7ygei4s/AABb3BlW1sUm_g3LMTa6aWBwa?dl=0).
-
+DevFest Sarajevo 2023
+* *02/12/2023* - Google DevFest Sarajevo 2023<br/>
+* *26/07/2023* - 1st International Conference on Automated Machine Learning, Baltimore, USA<br/> 
 * *30/03/2022* - Sarajevo AI 2022, virtual<br/>
 * *03/03/2021* - SIAM CSE 2019, virtual<br/>
 * *10/09/2020* - Model Order Reduction Summer School 2020 at EPFL, Switzerland<br/>
@@ -49,5 +54,3 @@ header:
 * *25/12/2017 - 29/12/2017* - OpenFOAM Workshop at the Faculty of Mechanical Engineering, University of Sarajevo, B&H<br/>
 * *21/11/2017* - HD-Tomo: High-Definition Tomography Seminar at DTU Compute, Kgs. Lyngby, Denmark<br/>
 * *24/08/2017* - DeRisk ULS Wave loads Workshop, DTU, Kgs. Lyngby, Denmark<br/>
-
- <i class="fas fa-file-pdf"></i> The PDF version of CV can be found [here](https://www.dropbox.com/s/s2je92yzaoutzab/CV_Kenan_Sehic.pdf?dl=0).
