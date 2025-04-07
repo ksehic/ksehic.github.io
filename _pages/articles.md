@@ -8,6 +8,8 @@ author_profile: true
 # 2025
 1. Zahra Ramezani, Kenan Šehić, Luigi Nardi, Knut Åkesson: Falsification of Cyber-physical Systems Using Bayesian Optimization, ACM Transactions on Embedded Computing Systems [https://doi.org/10.1145/3711922](https://doi.org/10.1145/3711922), [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2209.06735)
 
+2. Emina Dervišević, Aida Selmanagić, Kenan Šehić: Age estimation in children: insights from a new Bosnian-Herzegovinian formula, International Journal of Legal Medicine (2025) [https://doi.org/10.1007/s00414-025-03478-2](https://doi.org/10.1007/s00414-025-03478-2)
+
 # 2024
 1. Zlatan Ajanović, Hamza Merzić, Suad Krilasević, Eldar Kurtić, Bakir Kudić, Rialda Spahić, Emina Aličković, Aida Branković, Kenan Šehić, Mirsad Ćosović, Admir Greljo, Sead Delalić, Adnan Mehonić: Good Practices for Institutional Organization of Research Institutes: Excellence in Research and Positive Impact on Society, Accepted as a conference paper at Scientific and Professional Conference on Artificial Intelligence in Mostar, Federal Ministry of Education and Science, Bosnia and Herzegovina, [<i class="fas fa-file-pdf"></i>](https://arxiv.org/pdf/2501.14773)
 
