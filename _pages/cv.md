@@ -2,7 +2,7 @@
 layout: splash
 permalink: /cv/
 title: "Curriculum Vitae"
-date: 2022-09-01
+date: 2025-07-01
 author_profile: true
 header:
     image: "/images/prezen2.jpg"
@@ -31,14 +31,16 @@ header:
 *2013 - 2015* - Full Master Scholarship awarded by JP Elektroprivreda BiH d.d. - a public energy company<br/>
 
 # Teaching experience
+*Sept. 2024 - Present* - *Practical Application of AI*, B.Sc. (i.e. undergraduate AI degree program) course at ETF(UNSA)<br/>
 *Sept. 2023 - Present* - *Linear Algebra and Geometry*, B.Sc. (i.e. undergraduate) course at ETF(UNSA)<br/> 
 *Sept. 2023 - Present* - *Probability And Statistics*, B.Sc. (i.e. undergraduate) course at ETF(UNSA)<br/> 
 *Sept. 2019 - Jan. 2020* - Teaching assistant for the master course *Introduction to Partial Differential Equations*, DTU Compute<br/>
 *Sept. 2017 - Jan. 2018* - Teaching assistant for the master course *Introduction to Partial Differential Equations*, DTU Compute
 
 # Talks
- <i class="fas fa-file-pdf"></i> Find the available presentations here [here](https://www.dropbox.com/sh/579hj6fe7ygei4s/AABb3BlW1sUm_g3LMTa6aWBwa?dl=0).
+ <i class="fas fa-file-pdf"></i> Find the available presentations [here](https://www.dropbox.com/sh/579hj6fe7ygei4s/AABb3BlW1sUm_g3LMTa6aWBwa?dl=0).
 
+* *02/11/2024* - Google DevFest Sarajevo 2024<br/>
 * *02/12/2023* - Google DevFest Sarajevo 2023<br/>
 * *26/07/2023* - 1st International Conference on Automated Machine Learning, Baltimore, USA<br/> 
 * *30/03/2022* - Sarajevo AI 2022, virtual<br/>
