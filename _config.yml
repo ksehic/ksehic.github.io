@@ -93,8 +93,8 @@ analytics:
 author:
   name             : "Kenan Šehić, Ph.D."
   avatar           : "/images/ke2103se.jpg"
-  bio              : "Data Scientist at Emulate Energy | Asst. Prof. in Computer Science at University of Sarajevo"
-  location         : "Sarajevo, Bosnia-Herzegovina (Remote)"
+  bio              : "Asst. Prof. in Computer Science at University of Sarajevo"
+  location         : "Sarajevo, Bosnia-Herzegovina"
   email            : #""
   links:
     - label: "Email"
