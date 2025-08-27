@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-date: 2024-09-01
+date: 2025-09-01
 header:
     image: "/images/mit.jpg"
     caption: "MIT, Cambridge, Massachusetts"
@@ -9,7 +9,9 @@ header:
 
 Hi there! I’m a mechanical engineer who fell in love with computational mathematics along the way. I’ve always been drawn to solving complex, challenging problems that push the limits of traditional engineering, and computational math has opened up a whole new world for me. It lets us dig deeper into the why and how of natural events, giving us a clearer, more concrete understanding of the world around us. Ever since I was a kid, I’ve been torn between my love for math and physics, so deciding on a career path wasn’t easy. In the end, I chose mechanical engineering because it’s such a versatile field—it’s given me the confidence to explore and succeed in different areas, all while staying true to my passion for problem-solving.<br/>
 <br/>
-I am currently working as a Data Scientist at [Emulate Energy](https://emulate.energy/aboutus/), a company dedicated to making renewable energy universally accessible, where I contribute to accelerating the global transition to clean energy. Simultaneously, I hold an Assistant Professor position at the Faculty of Electrical Engineering, University of Sarajevo, in the Department of Computer Science. This dual engagement allows me to bridge the gap between industry and academia, applying cutting-edge research to real-world challenges while bringing practical industry insights into the academic environment. Balancing both roles enhances my ability to innovate and contribute to both fields, ensuring that the latest advancements in computational mathematics and data science directly impact both education and the renewable energy sector.<br/>
+I am currently an Assistant Professor at the [Faculty of Electrical Engineering](https://www.etf.unsa.ba/), University of Sarajevo, in the Department of Computer Science. I truly enjoy working with students and teaching courses such as Practical Application of AI and Linear Algebra and Geometry. Guiding students as they connect theory with real-world applications is one of the most rewarding aspects of my work, and it constantly inspires me to push the boundaries of how computational mathematics and AI can be taught and applied.<br/>
+<br/>
+In parallel with my academic role, over the past three years I worked with the Swedish startup [Emulate Energy](https://emulate.energy/aboutus/), a company dedicated to making renewable energy universally accessible. There, I contributed to accelerating the global transition to clean energy by applying data science and optimization to real-world challenges. This combination of academia and industry has shaped my perspective, allowing me to bring both practical insights and cutting-edge research into the classroom.<br/>
 <br/>
 Before joining [Emulate Energy](https://emulate.energy/aboutus/), I was a postdoctoral researcher at Lund University’s Department of Computer Science, focusing on Bayesian Optimization under the supervision of Asst. Professor [Luigi Nardi](https://scholar.google.it/citations?user=Kgs3zQoAAAAJ&hl=it). This project, funded by WASP (Wallenberg AI, Autonomous Systems, and Software Programme), expanded my expertise in high-dimensional optimization problems.<br/>
 <br/>

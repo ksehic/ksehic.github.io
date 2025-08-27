@@ -2,7 +2,7 @@
 layout: splash
 permalink: /cv/
 title: "Curriculum Vitae"
-date: 2025-07-01
+date: 2025-09-01
 author_profile: true
 header:
     image: "/images/prezen2.jpg"
@@ -16,8 +16,8 @@ header:
 *2006 - 2010* - First Bosniak Gymnasium, Sarajevo, Bosnia-Herzegovina
 
 # Professional experience
-*since Oct. 2023* - Asst. Prof. at Faculty of Electrical Engineering (University of Sarajevo) <br/>
-*since Sept. 2022* - Data Scientist at [Emulate Energy](https://emulate.energy/aboutus/)<br/>
+*since Oct. 2023* - Asst. Prof. at [Faculty of Electrical Engineering](https://www.etf.unsa.ba/) (University of Sarajevo) <br/>
+*Sept. 2022 - Sept. 2025* - Data Scientist at [Emulate Energy](https://emulate.energy/aboutus/)<br/>
 *Aug. 2020 - Aug. 2022* - Postdoc Research Fellow at the Department of Computer Science, Lund University<br/>
 *Sept. 2018 - Mar. 2019* - Visiting researcher at the Massachusetts Institute of Technology, AeroAstro, UQGroup<br/>
 *Sept. 2016 - Nov 2016* - Research assistant at the Technical University of Denmark, DTU Compute, Kgs. Lyngby, Denmark<br/>
@@ -33,7 +33,7 @@ header:
 # Teaching experience
 *Sept. 2024 - Present* - *Practical Application of AI*, B.Sc. (i.e. undergraduate AI degree program) course at ETF(UNSA)<br/>
 *Sept. 2023 - Present* - *Linear Algebra and Geometry*, B.Sc. (i.e. undergraduate) course at ETF(UNSA)<br/> 
-*Sept. 2023 - Present* - *Probability And Statistics*, B.Sc. (i.e. undergraduate) course at ETF(UNSA)<br/> 
+*Sept. 2023 - Sept. 2024* - *Probability And Statistics*, B.Sc. (i.e. undergraduate) course at ETF(UNSA)<br/> 
 *Sept. 2019 - Jan. 2020* - Teaching assistant for the master course *Introduction to Partial Differential Equations*, DTU Compute<br/>
 *Sept. 2017 - Jan. 2018* - Teaching assistant for the master course *Introduction to Partial Differential Equations*, DTU Compute
 
